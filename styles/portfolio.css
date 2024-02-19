@@ -216,8 +216,8 @@ footer {
     text-align: left;
 }
 
-.section-title,
-.section-description {
+.footer-section-title,
+.footer-section-description {
     margin-left: 5px;
     text-align: start;
 }
